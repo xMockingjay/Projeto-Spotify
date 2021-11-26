@@ -1,0 +1,12 @@
+/*
+* 
+* @author Jamilton Damasceno
+*/
+html,body, #home {
+    border: 1px solid blue;
+    height: 100%;
+}
+
+.capa {
+    text-align: center;
+}
